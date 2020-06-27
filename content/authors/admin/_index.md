@@ -28,10 +28,10 @@ education:
     - course: PhD in Electrical Engineering
       institution: Georgia Institute of Technology, Atlanta, USA
       year: 2020
-    - course: MSc Electrical Engineering - Electromagnetics
+    - course: "MSc in Electrical Engineering "
       institution: Georgia Institute of Technology, Atlanta, USA
       year: 2018
-    - course: MSc Electrical Engineering - Wireless Systems
+    - course: "MSc in Electrical Engineering "
       institution: Royal Institute of Technology, Stockholm, Sweden
       year: 2008
     - course: BSc in Computer Engineering
