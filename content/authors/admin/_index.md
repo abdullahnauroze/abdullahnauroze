@@ -21,19 +21,22 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Georgia Institute of Technology
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Electrical Engineering
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: 2020
+    - course: MSc Electrical Engineering - Electromagnetics
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: 2018
+    - course: MSc Electrical Engineering - Wireless Systems
+      institution: Royal Institute of Technology, Stockholm, Sweden
       year: 2008
+    - course: BSc in Computer Engineering
+      institution: University of Engineering & Technology, Taxila, Pakistan
+      year: 2005
 email: ""
 superuser: true
 authors:
