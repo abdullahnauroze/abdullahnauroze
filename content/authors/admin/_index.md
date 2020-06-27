@@ -1,5 +1,5 @@
 ---
-title: Syed Abdullah Nauroze
+title: Dr. Syed Abdullah Nauroze
 role: RF Engineer
 bio: My research interests include shape reconfigurable RF structures, origami
   inspired 4D structures, antenna design, additive manufacturing technologies &
