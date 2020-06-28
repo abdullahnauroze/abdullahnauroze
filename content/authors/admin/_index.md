@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Georgia Institute of Technology, Atlanta, USA
-      year: 2020
+      year: 2019
     - course: "MSc in Electrical Engineering "
       institution: Georgia Institute of Technology, Atlanta, USA
       year: 2018
