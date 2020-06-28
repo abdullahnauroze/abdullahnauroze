@@ -19,7 +19,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
   - icon_pack: ai
-    icon: LinkedIn
+    icon: linkedin
     link: https://www.linkedin.com/in/syedabdullahnauroze
 organizations:
   - name: Georgia Institute of Technology
