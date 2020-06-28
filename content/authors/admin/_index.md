@@ -15,15 +15,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: Georgia Institute of Technology
     url: ""
@@ -49,6 +43,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Dr. Nauroze recieved his BSc. in Computer Engineering (with honors) from University of Engineering & Technology, Taxila, Pakistan in 2005, MSc. in Electrical Engineering (Wireless Systems) from Royal Institute of Technology (KTH) Stockholm, Sweden in 2008, MSc. and PhD in Electrical and Computer Engineering (Electromagnetics & MEMS) from Georgia Institute of Technology, Atlanta, USA in 2018 and 2020 respectively. In 2019, he recieved Management of Technology certificate from Scheller School of Business (Georgia Institute of Technology) with focus on entrepenurship & small business development. He is a recipient of prestigeous Swedish Institute and Fulbright scholarhip in 2006 and 2014 respectively. In spring 2018, Dr. Nauroze was also part of National Science Foundation - Innovation Corps (I-Corps) spring 2018 cohort which aims to reduce time & risk associated with translating promising ideas and technologies from the laboratory to the marketplace. Later, he co-founded an Atlanta based tech startup, Atheraxon. During Fall 2017, he worked at Qualcomm where he was part of the 5G antenna design team responsible for design, testing and implementation of 5G phased array antennas for handheld devices. In summer 2019, he worked at Amazon Lab126 
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
