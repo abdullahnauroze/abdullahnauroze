@@ -38,7 +38,7 @@ education:
     - course: BSc in Computer Engineering
       institution: University of Engineering & Technology, Taxila, Pakistan
       year: 2005
-email: ""
+email: nauroze@gatech.edu
 superuser: true
 authors:
   - admin
