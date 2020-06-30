@@ -18,7 +18,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
-  - icon_pack: ai
+  - icon_pack: far
     icon: linkedin
     link: https://www.linkedin.com/in/syedabdullahnauroze
 organizations:
