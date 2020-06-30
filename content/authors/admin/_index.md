@@ -18,7 +18,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
-  - icon_pack: far
+  - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/syedabdullahnauroze
 organizations:
@@ -51,5 +51,3 @@ Dr. Nauroze recieved his BSc. in Computer Engineering (honors) from University o
 In spring 2018, Dr. Nauroze was part of National Science Foundation - Innovation Corps (I-Corps) cohort which aims to reduce time & risk associated with translating promising ideas and technologies from the laboratory to the marketplace. Later, he co-founded an Atlanta based tech startup, Atheraxon. During Fall 2017, he worked at Qualcomm San Diego, CA where he was part of the 5G antenna design team responsible for design, testing and realization of 5G phased array antennas for handheld devices. In summer 2019, he was involved with realization of smart noise immune antennas at Amazon Lab126 Sunnyvale, CA that improve desence in Alexa enabled devices. Before joining Georgia Tech as a PhD student, Dr. Nauroze had also served as faculty member (for more than 7 years) at various prestigious universities in Pakistan including University of Engineering & Technology Taxila, LUMS - Syed Babar Ali School of Science & Engineering and National University of Computer & Emergince Sciences (Islamabad). Moreover, he also recieved graduate assistanceship in Spring 2005 to work on fractal antennas at University of Technology Petronas (Malaysia).
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
