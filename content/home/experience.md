@@ -1,45 +1,26 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
-
-title = "Experience"
-subtitle = ""
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+active = false
 date_format = "Jan 2006"
-
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+headless = true
+subtitle = ""
+title = "Experience"
+weight = 20
+widget = "experience"
 [[experience]]
-  title = "Graduate Researh Assistant"
-  company = "Georgia Institute of Technology"
-  company_url = ""
-  location = "Atlanta, GA, USA"
-  date_start = "Aug 2015"
-  date_end = "Dec 2019"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+company = "Georgia Institute of Technology"
+company_url = ""
+date_end = "Dec 2019"
+date_start = "Aug 2015"
+description = "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
+location = "Atlanta GA USA"
+title = "Graduate Researh Assistant"
 [[experience]]
-  title = "Hardware Engineering Intern"
-  company = "Amazon Lab126"
-  company_url = ""
-  location = "Sunnyvale, CA"
-  date_start = "May 2019"
-  date_end = "August 2019"
-  description = """Taught electronic engineering and researched semiconductor physics."""
- 
+company = "Amazon Lab126"
+company_url = ""
+date_end = "August 2019"
+date_start = "May 2019"
+description = "Taught electronic engineering and researched semiconductor physics."
+location = "Sunnyvale, CA"
+title = "Hardware Engineering Intern"
 
 +++
