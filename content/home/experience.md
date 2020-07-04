@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta GA USA"
-  date_start = ""
-  date_end = ""
+  date_start = "Aug 2015"
+  date_end = "Dec 2019"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Amazon Lab126"
   company_url = ""
   location = "Sunnyvale, CA"
-  date_start = ""
-  date_end = ""
+  date_start = "May 2019"
+  date_end = "August 2019"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
