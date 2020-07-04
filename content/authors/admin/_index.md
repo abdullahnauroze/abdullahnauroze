@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Syed Abdullah Nauroze
+title: Syed Abdullah
 role: ""
 bio: My research interests include shape reconfigurable RF structures, origami
   inspired 4D structures, antenna design, additive manufacturing technologies &
