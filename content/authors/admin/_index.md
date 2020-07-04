@@ -1,4 +1,10 @@
 ---
+organizations:
+  - name: Georgia Institute of Technology
+    url: ""
+superuser: true
+authors:
+  - admin
 title: Syed Abdullah Nauroze
 role: ""
 bio: My research interests include shape reconfigurable RF structures, origami
@@ -14,16 +20,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:nauroze@gatech.edu
+    link: "#contact"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/syedabdullahnauroze
-organizations:
-  - name: Georgia Institute of Technology
-    url: ""
 education:
   courses:
     - course: PhD in Electrical Engineering
@@ -39,9 +42,6 @@ education:
       institution: University of Engineering & Technology, Taxila, Pakistan
       year: 2005
 email: ""
-superuser: true
-authors:
-  - admin
 user_groups:
   - Researchers
   - Visitors
