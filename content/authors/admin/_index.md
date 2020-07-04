@@ -1,6 +1,6 @@
 ---
 organizations:
-- name: Georgia Institute of Tech
+- name: Georgia Institute of Technology
   url: ''
 superuser: true
 authors:
