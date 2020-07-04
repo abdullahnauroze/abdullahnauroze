@@ -1,26 +1,28 @@
 +++
-active = false
+active = true
 date_format = "Jan 2006"
 headless = true
 subtitle = ""
 title = "Experience"
-weight = 80
+weight = 40
 widget = "experience"
+
 [[experience]]
-company = "Georgia Institute of Technology"
+company = "Georgia"
 company_url = ""
-date_end = "Dec 2019"
-date_start = "Aug 2015"
+date_end = ""
+date_start = "2017-01-01"
 description = "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
-location = "Atlanta GA USA"
-title = "Graduate Researh Assistant"
+location = "Atlanta"
+title = "Graduate"
+
 [[experience]]
-company = "Amazon Lab126"
+company = "Univ X"
 company_url = ""
-date_end = "August 2019"
-date_start = "May 2019"
+date_end = "2016-12-31"
+date_start = "2016-01-01"
 description = "Taught electronic engineering and researched semiconductor physics."
-location = "Sunnyvale, CA"
-title = "Hardware Engineering Intern"
+location = "Sunnyvale"
+title = "Professor"
 
 +++
