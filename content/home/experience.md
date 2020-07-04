@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta GA USA"
-  date_start = "2015-08-01"
-  date_end = "2020-1-1"
+  date_start = ""
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Amazon Lab126"
   company_url = ""
   location = "Sunnyvale, CA"
-  date_start = "2019-05-01"
-  date_end = "2019-08-03"
+  date_start = ""
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
