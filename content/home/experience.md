@@ -8,7 +8,7 @@ weight = 80
 widget = "experience"
 
 [[experience]]
-company = "Georgia"
+company = "Georgia Institute of Technology"
 company_url = ""
 date_end = ""
 date_start = "2017-01-01"
