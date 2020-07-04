@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Experience"
@@ -32,7 +32,14 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
-
+[[experience]]
+  title = "Hardware Engineering Intern"
+  company = "Amazon Lab126"
+  company_url = ""
+  location = "Sunnyvale, CA"
+  date_start = "May 2019"
+  date_end = "August 2019"
+  description = """Taught electronic engineering and researched semiconductor physics."""
  
 
 +++
