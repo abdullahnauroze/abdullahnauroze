@@ -17,11 +17,12 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Graduate Researh Assistant"
   company = "Georgia Institute of Technology"
   company_url = ""
-  location = "Atlanta GA USA"
+  location = "Atlanta, GA, USA"
   date_start = "Aug 2015"
   date_end = "Dec 2019"
   description = """
@@ -32,13 +33,6 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
-  title = "Hardware Engineering Intern"
-  company = "Amazon Lab126"
-  company_url = ""
-  location = "Sunnyvale, CA"
-  date_start = "May 2019"
-  date_end = "August 2019"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+ 
 
 +++
