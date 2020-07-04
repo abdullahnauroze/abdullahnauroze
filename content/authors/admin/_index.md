@@ -1,51 +1,50 @@
 ---
 organizations:
-- name: Georgia Institute of Technology
-  url: ''
+  - name: Georgia Institute of Technology
+    url: ""
 superuser: true
 authors:
-- admin
-title: Syed A. Nauroze
-role: ''
-bio: My research interests include shape reconfigurable RF structures, origami inspired
-  4D structures, antenna design, additive manufacturing technologies & frequency selective
-  surfaces.
+  - admin
+title: Syed Abdullah Nauroze
+role: ""
+bio: My research interests include shape reconfigurable RF structures, origami
+  inspired 4D structures, antenna design, additive manufacturing technologies &
+  frequency selective surfaces.
 interests:
-- Antenna design
-- Shape-reconfigurable "4D" RF structures
-- Additively manufactured "smart" deployable RF structures
-- Frequency Selective Surfaces
-- Noise mitigation for EMC EMI applications
-- RF packaging
+  - Antenna design
+  - Shape-reconfigurable "4D" RF structures
+  - Additively manufactured "smart" deployable RF structures
+  - Frequency Selective Surfaces
+  - Noise mitigation for EMC EMI applications
+  - RF packaging
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:nauroze@gatech.edu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
-- icon_pack: fab
-  icon: linkedin
-  link: https://www.linkedin.com/in/syedabdullahnauroze
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:nauroze@gatech.edu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=PyiqnwoAAAAJ
+  - icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/syedabdullahnauroze
 education:
   courses:
-  - course: PhD in Electrical Engineering
-    institution: Georgia Institute of Technology, Atlanta, USA
-    year: "2019"
-  - course: 'MSc in Electrical Engineering '
-    institution: Georgia Institute of Technology, Atlanta, USA
-    year: "2018"
-  - course: 'MSc in Electrical Engineering '
-    institution: Royal Institute of Technology, Stockholm, Sweden
-    year: "2008"
-  - course: BSc in Computer Engineering
-    institution: University of Engineering & Technology, Taxila, Pakistan
-    year: "2005"
-email: ''
+    - course: PhD in Electrical Engineering
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: "2019"
+    - course: "MSc in Electrical Engineering "
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: "2018"
+    - course: "MSc in Electrical Engineering "
+      institution: Royal Institute of Technology, Stockholm, Sweden
+      year: "2008"
+    - course: BSc in Computer Engineering
+      institution: University of Engineering & Technology, Taxila, Pakistan
+      year: "2005"
+email: ""
 user_groups:
-- Researchers
-- Visitors
-
+  - Researchers
+  - Visitors
 ---
 Dr. Nauroze received his BSc. in Computer Engineering (honors) from University of Engineering & Technology, Taxila (Pakistan) in 2005, MSc. in Electrical Engineering (Wireless Systems) from Royal Institute of Technology (KTH) Stockholm, Sweden in 2008, MSc. and PhD in Electrical and Computer Engineering (Electromagnetics & MEMS) from Georgia Institute of Technology, Atlanta, USA in 2018 and 2019 respectively. He also holds Management of Technology certificate from Scheller School of Business (Georgia Institute of Technology) with focus on entrepreneurship & small business development. He is a recipient of prestigious Swedish Institute and Fulbright scholarships in 2006 and 2014 respectively.
 
