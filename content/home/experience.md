@@ -13,7 +13,7 @@ company_url = ""
 date_end = "2019-12-31"
 date_start = "2015-08-15"
 description = "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
-location = "Atlanta"
+location = "Georgia, USA"
 title = "Graduate Research Assistant"
 
 [[experience]]
