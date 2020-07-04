@@ -1,19 +1,11 @@
 +++
-active = false
+active = true
 date_format = "Jan 2006"
 headless = true
 subtitle = ""
 title = "Experience"
 weight = 20
 widget = "experience"
-[[experience]]
-company = "Qualcomm"
-company_url = ""
-date_end = "December 2017"
-date_start = "August 2017"
-description = ""
-location = "San Diego, CA, USA"
-title = "5G antenna engineer"
 [[experience]]
 company = "Georgia Institute of Technology"
 company_url = ""
