@@ -12,8 +12,11 @@ bio: My research interests include shape reconfigurable RF structures, origami
   frequency selective surfaces.
 interests:
   - Antenna design
+  - Phase Array Antennas
+  - Reflectarrays
   - Shape-reconfigurable "4D" RF structures
   - Additively manufactured "smart" deployable RF structures
+  - Peel-and-replace flexible RF structures
   - Frequency Selective Surfaces
   - Noise mitigation for EMC EMI applications
   - RF packaging
