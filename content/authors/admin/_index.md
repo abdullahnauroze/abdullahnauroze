@@ -18,7 +18,7 @@ interests:
   - Additively manufactured "smart" deployable RF structures
   - Peel-and-replace flexible RF structures
   - Frequency Selective Surfaces
-  - Noise mitigation for EMC EMI applications
+  - Noise mitigation for EMC/EMI applications
   - RF packaging
 social:
   - icon: envelope
