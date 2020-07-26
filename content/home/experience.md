@@ -12,7 +12,7 @@ company = "Amazon Lab126"
 company_url = ""
 date_end = "2019-08-03"
 date_start = "2019-05-13"
-description = "Responsible for design, simulation and realization of novel antenna design and noise mitigation techniques to improve desense in various Amazon smart devices. During the internship, I worked in close collaboration with antenna and desense teams at Amazon Lab126 to identify, mathematically model and study noise sources at their affects on various on-board communication systems (such at WiFi and Bluetooth) with respect to their location, polarization and types. I realized diverse range of solutions to mitigate these effects and achieved up to 17dB desense improvement while reducing cost, weight, fabrication time and overall size of the device."
+description = "Responsible for: \n * Design, simulation and realization of novel antenna design and noise mitigation techniques to improve desense in various Amazon smart devices. \n Identify, mathematically model and study noise sources at their affects on various on-board communication systems (such at WiFi and Bluetooth) with respect to their location, polarization and types. \n Realized diverse range and achieved up to 17dB desense improvement while reducing cost, weight, fabrication time and overall size of the device."
 location = "Sunnyvale, CA, USA"
 title = "Hardware Engineer Intern"
 
