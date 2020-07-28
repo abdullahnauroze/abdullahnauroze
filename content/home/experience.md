@@ -117,9 +117,7 @@ company = "University of Engineering & Technology"
 company_url = ""
 date_end = "2005-08-31"
 date_start = "2005-01-01"
-description = """ 
-	Taught courses: Computer programming and electronics. Also supervised labs for these courses.
-"""
+description = "Taught courses: Computer programming and electronics. Also supervised labs for these courses."
 location = "Taxila, Pakistan"
 title = "Teaching/Research Assistant"
 +++
