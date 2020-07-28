@@ -22,9 +22,9 @@ company_url = ""
 date_end = "2019-12-31"
 date_start = "2015-08-15"
 description = "Responsibilities include:\n
-- Part of NSF I-Corps entrepreneurial startup program to use research during PhD studies in solving real-world problems, find early adopters and make minimal viable product.
-- Supervised high school teacher under GT STEM Teacher Leadership Program (STLP) to improve labs in Metro Atlanta (Georgia) schools.
-- Lead group of three (3) graduate students on an EATON sponsored project to work on smart lighting fixtures
+* Part of NSF I-Corps entrepreneurial startup program to use research during PhD studies in solving real-world problems, find early adopters and make minimal viable product.
+* Supervised high school teacher under GT STEM Teacher Leadership Program (STLP) to improve labs in Metro Atlanta (Georgia) schools.
+* Lead group of three (3) graduate students on an EATON sponsored project to work on smart lighting fixtures
 
 location = "Atlanta, GA, USA"
 title = "Graduate Research Assistant"
