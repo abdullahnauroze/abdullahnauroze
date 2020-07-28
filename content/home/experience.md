@@ -16,14 +16,14 @@ description = "Responsibilities include: \n * Design, simulation and realization
 location = "Sunnyvale, CA, USA"
 title = "Hardware Engineer Intern"
 
-[[experience]]
-company = "Georgia Institute of Technology"
-company_url = ""
-date_end = "2019-12-31"
-date_start = "2015-08-15"
-description = "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
-location = "Atlanta, GA, USA"
-title = "Graduate Research Assistant"
+# [[experience]]
+# company = "Georgia Institute of Technology"
+# company_url = ""
+# date_end = "2019-12-31"
+# date_start = "2015-08-15"
+# description = "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
+# location = "Atlanta, GA, USA"
+# title = "Graduate Research Assistant"
 
 [[experience]]
 company = "Georgia Institute of Technology"
