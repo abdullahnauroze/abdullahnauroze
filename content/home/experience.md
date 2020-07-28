@@ -8,15 +8,6 @@ weight = 30
 widget = "experience"
 
 [[experience]]
-company = "Amazon Lab126"
-company_url = ""
-date_end = "2019-08-03"
-date_start = "2019-05-13"
-description = "Responsibilities include: \n * Design, simulation and realization of novel antenna design and noise mitigation techniques to improve desense in various Amazon smart devices.\n \n * Identify, mathematically model and study noise sources and their effects on various on-board communication systems (such at WiFi and Bluetooth) with respect to their location, polarization and types. \n * Achieved up to 17dB desense improvement while reducing cost, weight, fabrication time and overall size of the device."
-location = "Sunnyvale, CA, USA"
-title = "Hardware/Antenna Engineer (Co-op)"
-
-[[experience]]
 company = "Georgia Institute of Technology (ATHENA Lab)"
 company_url = ""
 date_end = "2019-12-31"
@@ -31,6 +22,15 @@ Highlights:
 """
 location = "Atlanta, GA, USA"
 title = "Graduate Research Assistant"
+
+[[experience]]
+company = "Amazon Lab126"
+company_url = ""
+date_end = "2019-08-03"
+date_start = "2019-05-13"
+description = "Responsibilities include: \n * Design, simulation and realization of novel antenna design and noise mitigation techniques to improve desense in various Amazon smart devices.\n \n * Identify, mathematically model and study noise sources and their effects on various on-board communication systems (such at WiFi and Bluetooth) with respect to their location, polarization and types. \n * Achieved up to 17dB desense improvement while reducing cost, weight, fabrication time and overall size of the device."
+location = "Sunnyvale, CA, USA"
+title = "Hardware/Antenna Engineer (Co-op)"
 
 [[experience]]
 company = "Qualcomm"
@@ -94,7 +94,7 @@ title = "Lecturer"
 company = "Microsystems Tech Lab - Royal Institute of Technology (KTH)"
 company_url = ""
 date_end = "2008-12-01"
-date_start = "2008-01-01"
+date_start = "2008-11-30"
 description = """ 
 Responsible for	design & investigation of novel on-chip antennas for 77GHz automotive radar applications
 """
