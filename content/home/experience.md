@@ -24,8 +24,8 @@ date_start = "2015-08-15"
 description = """
 Highlights:
 * Part of NSF I-Corps entrepreneurial startup program to use research during PhD studies in solving real-world problems, find early adopters and make minimal viable product.
-* Supervised high school teacher under GT STEM Teacher Leadership Program (STLP) to improve labs in Metro Atlanta (Georgia) schools.
-* Lead group of three (3) graduate students on an EATON sponsored project to work on smart lighting fixtures.
+* Supervised high school teacher under [GT STEM Teacher Leadership Program (STLP)](https://www.ceismc.gatech.edu/community/stlp) to improve labs in Metro Atlanta schools.
+* Lead group of three (3) graduate students on an EATON sponsored project to work on smart lighting fixtures with integrated printed sensors.
 *	Multilayer flexible antenna arrays for X-band (10-12 GHz) CW radars. 
 *	Design of 3D-printed smart encapsulations for realization of system-on-package solutions, integrated mm-wave (26-40 GHz – Ka Band) RF components and shielding.
 """
